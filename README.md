@@ -35,9 +35,9 @@ Example Feedback Submission
 }
 ```
 ---
-<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/78c5baa1-a56d-4598-8ab2-4dd469b295c7" />
+<img width="50%" height="868" alt="image" src="https://github.com/user-attachments/assets/78c5baa1-a56d-4598-8ab2-4dd469b295c7" />
 ---
-<img width="1899" height="801" alt="image" src="https://github.com/user-attachments/assets/738037eb-8d55-4673-b4e6-2209cba52ecf" />
+<img width="50%" height="801" alt="image" src="https://github.com/user-attachments/assets/738037eb-8d55-4673-b4e6-2209cba52ecf" />
 ---
 Security Note
 
