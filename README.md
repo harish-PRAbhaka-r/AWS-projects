@@ -34,8 +34,6 @@ Example Feedback Submission
   "message": "Love the app!"
 }
 ```
----
 <img width="750" height="1000" alt="image" src="https://github.com/user-attachments/assets/78c5baa1-a56d-4598-8ab2-4dd469b295c7" />
----
+
 <img width="750" height="1000" alt="image" src="https://github.com/user-attachments/assets/738037eb-8d55-4673-b4e6-2209cba52ecf" />
----
