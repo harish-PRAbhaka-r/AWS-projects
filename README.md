@@ -39,7 +39,3 @@ Example Feedback Submission
 ---
 <img width="750" height="1000" alt="image" src="https://github.com/user-attachments/assets/738037eb-8d55-4673-b4e6-2209cba52ecf" />
 ---
----
-Security Note
----
-❗ **Do NOT expose AWS credentials or private keys.** Use environment variables or IAM roles for secure access.
